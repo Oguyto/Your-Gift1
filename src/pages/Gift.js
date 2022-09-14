@@ -6,7 +6,7 @@ function Gift(){
                         'Nothing, i am tired today.',
                         'An other day for sure !']
     return (
-        <div>
+        <div className="App">
             <headers><h1>You WON (pick one) </h1></headers>
             <article>
                 <Link to="/meet"><button>{tbChoose[0]} Recommended option</button></Link>

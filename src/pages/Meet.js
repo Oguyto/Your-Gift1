@@ -1,6 +1,6 @@
 function Meet() {
     return (
-        <div>
+        <div className="App">
             <h1>Great, let's meet outside</h1>
         </div>
     )

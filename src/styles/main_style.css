@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Sofia');
 
+
 body {
     background-color: rgb(30, 29, 29);
     color:rgb(255, 251, 245);
@@ -29,4 +30,10 @@ button {
 
 input {
     letter-spacing: 2px;
+}
+
+.App {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
 }

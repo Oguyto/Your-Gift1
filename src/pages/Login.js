@@ -23,7 +23,7 @@ function Login(){
     }
 
     return(
-      <div className="login-wrapper">
+      <div className="App">
           <h1>Enter The Correct</h1>
           <h3>Je brille de mille feu, mais je ne brule pas, je suis ? 4 lettres</h3>
           <input type="text" onChange={handleChange} />
